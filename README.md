@@ -148,13 +148,10 @@ route-photos/
 
 ### 1. Authentication Flow
 **Login & Register Screen**
-```
-![login](https://github.com/user-attachments/assets/ae91dd08-15ce-4183-96f2-ad99a62f4e44)
-
-![Screenshot_20251204_225158_Expo Go](https://github.com/user-attachments/assets/97c66612-cfe8-45f6-826a-ac92950f705e)
-![Screenshot_20251204_225326_Expo Go](https://github.com/user-attachments/assets/e913a83b-7af1-482e-b8e3-5361304bf609)
-
-
+<p align="center">
+  <img src="assets/login.jpg" width="200">
+  <img src="assets/register.jpg" width="200">
+</p>
 
 ```
 *Fitur: Email/password authentication, form validation, auto-login*
