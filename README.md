@@ -1,13 +1,13 @@
-# RouteMate 🏃‍♂️🚴‍♀️
+# RouteMap 🏃‍♂️🚴‍♀️
 
 ## 📱 Nama Produk
-**RouteMate** - Platform Berbagi Rute Olahraga Berbasis Komunitas
+**RouteMap** - Platform Berbagi Rute Olahraga Berbasis Komunitas
 
 ---
 
 ## 📖 Deskripsi Produk
 
-RouteMate adalah platform sosial mobile untuk berbagi, menemukan, dan mengikuti rute olahraga dengan GPS tracking, photo sharing, dan safety rating berbasis komunitas. Aplikasi ini memungkinkan pengguna untuk:
+RouteMap adalah platform sosial mobile untuk berbagi, menemukan, dan mengikuti rute olahraga dengan GPS tracking, photo sharing, dan safety rating berbasis komunitas. Aplikasi ini memungkinkan pengguna untuk:
 
 - 🗺️ **Menemukan Rute Baru**: Jelajahi rute olahraga yang dibagikan oleh komunitas lokal
 - 📍 **GPS Tracking Real-time**: Rekam rute olahraga dengan GPS tracking yang akurat
@@ -172,6 +172,11 @@ route-photos/
 
 ### 3. Track Screen
 **Record New Route with GPS**
+<p align="center">
+  <img src="assets/track1.jpg" width="200">
+  <img src="assets/track2.jpg" width="200">
+    <img src="assets/simpanrute.jpg" width="200">
+</p>
 
 *Fitur: GPS tracking, real-time polyline, distance/duration calculation, photo upload*
 
@@ -179,27 +184,10 @@ route-photos/
 
 ### 4. Explore Screen (Map View)
 **Browse All Routes on Map**
-```
-┌─────────────────────────┐
-│  🗺️ Explore Map         │
-├─────────────────────────┤
-│  [🏃] [🚴] [🚶]        │
-│  ↑ Sport type filter    │
-│                         │
-│  ┌──────────────────┐   │
-│  │                  │   │
-│  │   📍 📍 📍      │   │
-│  │  📍   📍        │   │
-│  │    📍  📍 📍    │   │
-│  │   Interactive    │   │
-│  │   Map with       │   │
-│  │   Route Markers  │   │
-│  │                  │   │
-│  └──────────────────┘   │
-│                         │
-│  Tap marker to preview  │
-└─────────────────────────┘
-```
+<p align="center">
+  <img src="assets/explore1.jpg" width="200">
+  <img src="assets/explore2.jpg" width="200">
+</p>
 *Fitur: Interactive map, clustered markers, filter by sport, route preview*
 
 ---
@@ -216,65 +204,20 @@ route-photos/
 
 ### 6. Profile Screen
 **User Profile & Statistics**
-```
-┌─────────────────────────┐
-│  👤 Profile             │
-├─────────────────────────┤
-│      ┌────────┐         │
-│      │ Avatar │         │
-│      └────────┘         │
-│                         │
-│    @your_username       │
-│    Your bio here...     │
-│                         │
-│  ┌─────────────────┐    │
-│  │  📊 Stats       │    │
-│  │  • 12 Routes    │    │
-│  │  • 58.5 km      │    │
-│  │  • 127 Likes    │    │
-│  └─────────────────┘    │
-│                         │
-│  My Routes:             │
-│  ┌─────────────────┐    │
-│  │ Morning Run     │    │
-│  │ 5.2 km • Safe   │    │
-│  └─────────────────┘    │
-│                         │
-│  [ Edit Profile ]       │
-└─────────────────────────┘
-```
+<p align="center">
+  <img src="assets/halaman profil.jpg" width="200">
+  <img src="assets/editprofil.jpg" width="200">
+    <img src="assets/logout.jpg" width="200">
+</p>
 *Fitur: Profile info, statistics, route management, edit profile*
 
 ---
 
 ### 7. Add Photo Modal
 **Upload Photo at Location**
-```
-┌─────────────────────────┐
-│  📸 Add Photo           │
-├─────────────────────────┤
-│                         │
-│  ┌──────────────────┐   │
-│  │                  │   │
-│  │   Photo Preview  │   │
-│  │                  │   │
-│  └──────────────────┘   │
-│                         │
-│  📝 Add Note (optional) │
-│  ┌─────────────────┐    │
-│  │ Beautiful view! │    │
-│  └─────────────────┘    │
-│                         │
-│  ⚠️ Mark as warning?    │
-│  [ ] Yes  [✓] No        │
-│                         │
-│  Location: 📍           │
-│  Lat: -7.xxx            │
-│  Lng: 110.xxx           │
-│                         │
-│  [ Cancel ] [ Save ]    │
-└─────────────────────────┘
-```
+<p align="center">
+  <img src="assets/addmodal.jpg" width="200">
+</p>
 *Fitur: Photo upload, note input, warning flag, auto-location capture*
 
 ---
