@@ -1,7 +1,7 @@
-# RouteMap 🏃‍♂️🚴‍♀️
+# RouteMate 🏃‍♂️🚴‍♀️
 
 ## 📱 Nama Produk
-**RouteMap** - Platform Berbagi Rute Olahraga Berbasis Komunitas
+**RouteMate** - Platform Berbagi Rute Olahraga Berbasis Komunitas
 
 ---
 
@@ -401,4 +401,4 @@ Kontribusi sangat diterima! Silakan:
 
 ---
 
-**RouteMap** - *Share Your Route, Build Your Community* 🏃‍♂️🚴‍♀️🚶‍♂️
+**RouteMate** - *Share Your Route, Build Your Community* 🏃‍♂️🚴‍♀️🚶‍♂️
