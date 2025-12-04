@@ -384,18 +384,11 @@ Kontribusi sangat diterima! Silakan:
 
 ---
 
-## 📝 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
 ## 👨‍💻 Developer
 
 **[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
+- GitHub: (https://github.com/salsabilasitinuraini)
+- Email: salsabilasitinuraini@mail.ugm.ac.id
 ---
 
 ## 🙏 Acknowledgments
@@ -408,12 +401,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-## 📞 Support
-
-Jika ada pertanyaan atau issue, silakan:
-- Buka [GitHub Issues](https://github.com/yourusername/routemate/issues)
-- Email: support@routemate.app
-
----
-
-**RouteMate** - *Share Your Route, Build Your Community* 🏃‍♂️🚴‍♀️🚶‍♂️
+**RouteMap** - *Share Your Route, Build Your Community* 🏃‍♂️🚴‍♀️🚶‍♂️
